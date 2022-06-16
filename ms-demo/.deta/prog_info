@@ -1,0 +1,1 @@
+{"id":"ffc9224b-dcab-4d27-9002-beb4fbee99c1","space":23431,"runtime":"python3.9","name":"ms-demo","path":"tgr1o9","project":"b0z4ri8l","account":"144798365827","region":"us-west-1","deps":["Flask\u003e=2","werkzeug\u003e=1","flask-session\u003e=0.3.2","requests\u003e=2","msal\u003e=1.7"],"envs":null,"public":true,"log_level":"debug","cron":""}
