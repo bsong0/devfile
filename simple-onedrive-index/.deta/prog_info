@@ -1,0 +1,1 @@
+{"id":"6c439673-d837-46d8-9084-58b60a672f25","space":23431,"runtime":"python3.9","name":"simple-onedrive-index","path":"f5iov5","project":"b0z4ri8l","account":"144798365827","region":"us-west-1","deps":["flask","requests"],"envs":null,"public":true,"log_level":"debug","cron":""}
